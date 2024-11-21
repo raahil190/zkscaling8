@@ -1,13 +1,10 @@
-<!-- # 🗳️ Vote -->
-<img alt="workshop/vote" width="1412" src="../.resources/vote.png">
 
 ## Summary
 
-`vote.aleo` is a general vote program.
+`vote.aleo` is a general vote program. It is used from the workshop repository of Aleo.
 
 Anyone can issue new proposals, proposers can issue tickets to the voters, and voters can vote without exposing their identity.
 
-This example is inspired by the [aleo-vote](https://github.com/zkprivacy/aleo-vote) example written by the Aleo community.
 
 ## Noteworthy Features
 
